@@ -37,3 +37,5 @@ function Form(props) {
         <button>Submit</button>
     </form>
 )}
+
+export default Form;
